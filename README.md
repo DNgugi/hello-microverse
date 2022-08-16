@@ -14,4 +14,4 @@
 
 👤 **Duncan Ngugi**
 
-- GitHub: [@githubhandle](https://github.com/DNgugi)
+- GitHub: [@DNgugi](https://github.com/DNgugi)
